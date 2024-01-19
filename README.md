@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Chaturvedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw3pcBeGA39XqTvZjZcN_vn_&ust=1705773025142000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiMh_CB6oMDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-the-codr&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-the-codr" /> </p>
 
