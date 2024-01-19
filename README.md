@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmappum%2Fgitbanner&psig=AOvVaw21il8xVp__dMHqgonkZCC6&ust=1705773335650000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID3ioKD6oMDFQAAAAAdAAAAABAD](https://rishavchanda.io)
+[[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmappum%2Fgitbanner&psig=AOvVaw21il8xVp__dMHqgonkZCC6&ust=1705773335650000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID3ioKD6oMDFQAAAAAdAAAAABAD]](https://wallpapercave.com/wp/wp3284839.gif)(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omkar Chaturvedi</h1>
 <h3 align="center">A passionate frontend developer.per from India</h3>
 <img src="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw3pcBeGA39XqTvZjZcN_vn_&ust=1705773025142000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiMh_CB6oMDFQAAAAAdAAAAABAQ">
