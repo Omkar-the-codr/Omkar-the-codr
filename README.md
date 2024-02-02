@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-the-codr&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-the-codr" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Development**
 
 - 💬 Ask me about **JAVA**
 
