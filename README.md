@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omkarchaturvedi2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Zy1YTbmwECrZrvL1f02KvHpWYBEXClQ/view?usp=sharing](https://drive.google.com/file/d/19Zy1YTbmwECrZrvL1f02KvHpWYBEXClQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19Zy1YTbmwECrZrvL1f02KvHpWYBEXClQ/view?usp=sharing](https://drive.google.com/file/d/1cmoyEis6a-knlMoSobM0CsxRCydOHO0I/view?usp=sharing)
 
 - ⚡ Fun fact **SERIOUSLY BORING**
 
