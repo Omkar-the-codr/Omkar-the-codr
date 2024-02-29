@@ -27,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-the-codr&show_icons=true&locale=en&layout=compact" alt="omkar-the-codr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-the-codr&" alt="omkar-the-codr" /></p>
+![](https://leetcard.jacoblin.cool/omkarchaturvedi2004?ext=heatmap)
