@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/19Zy1YTbmwECrZrvL1f02KvHpWYBEXClQ/view?usp=sharing](https://drive.google.com/file/d/1cmoyEis6a-knlMoSobM0CsxRCydOHO0I/view?usp=sharing)
 
 - ⚡ Fun fact **SERIOUSLY BORING**
+  ![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-the-codr&show_icons=true&locale=en&layout=compact" alt="omkar-the-codr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-the-codr&" alt="omkar-the-codr" /></p>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
