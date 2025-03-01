@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="700">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="900">
 <br><br>
 <h1 align="center">Hi 👋, I'm Omkar Chaturvedi</h1>
 <h3 align="center">"Shaping Frontends, Solving Challenges, Exploring Backends"</h3>
