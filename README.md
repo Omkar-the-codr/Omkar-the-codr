@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Omkar-the-codr&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roy7077&theme=react&card_width=425&card_height=194" alt="GitHub Streak" /></a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Omkar-the-codr&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Omkar-the-codr&theme=react&card_width=425&card_height=194" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-the-codr&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
