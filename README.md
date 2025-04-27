@@ -60,7 +60,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-the-codr&" alt="omkar-the-codr" /></p>
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=rOmkar-the-codr&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-the-codr&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
