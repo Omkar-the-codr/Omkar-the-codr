@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar-the-codr" alt="omkar-the-codr" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
-
-- 🌱 I’m currently learning **Development**
-
-- 👯 I’m looking to collaborate on **React.js**
-
-- 💬 Ask me about **JAVA**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **omkarchaturvedi2004@gmail.com**
 
-- ⚡ Fun fact **"Backend curious, frontend focused!"**
+- ⚡ Fun fact **"Backend focused!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
