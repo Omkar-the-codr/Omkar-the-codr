@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 <br><br>
-<h1 align="center">Hi 👋, I'm Omkar Chaturvedi</h1>
+<h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">"Solving Challenges, Exploring Backends"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omkar-the-codr&style=flat-square)&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-the-codr" /> </p>
